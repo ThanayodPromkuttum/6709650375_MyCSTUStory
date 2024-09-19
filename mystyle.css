@@ -1,0 +1,23 @@
+body {
+    background-image: url("resource/minecrafttt.jpg");
+    background-size: cover;
+    background-repeat: repeat-x;
+    animation: moveBackground 15s infinite linear;
+}
+
+@keyframes moveBackground {
+    0% {background-position: 0 0;}
+    100% {background-position: 100% 100%;}
+}
+
+ืnav {
+   background: #333;
+}
+
+.container {
+    max-width: 1140px;
+    margin: 0 auto;
+    padding: 20px;
+    box-sizing:border-box;
+
+}
