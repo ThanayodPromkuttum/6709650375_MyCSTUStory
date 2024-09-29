@@ -273,7 +273,7 @@ h5{
     padding-left: 120px;
     font-family: "Anton", sans-serif;
     color: rgb(165, 198, 199);
-    -webkit-text-stroke: 1px #090909;
+    -webkit-text-stroke: 0.5px #090909;
     font-size: 35px;
     width: 200%;
     padding-bottom: 200px;
