@@ -344,15 +344,15 @@ margin: 5px;
 }
 .HTML{
     width: 15%;
-    animation: HTML 3s;
+    animation: HTML 6s;
 }
 .CSS{
     width: 15%;
-    animation: CSS 3s;
+    animation: CSS 6s;
 }
 .C{
     width: 5%;
-    animation: C 3s;
+    animation: C 6s;
 }
 @keyframes HTML{
     0%{
@@ -422,15 +422,15 @@ margin: 5px;
 }
 .HTML2{
     width: 100%;
-    animation: HTML2 3s;
+    animation: HTML2 6s;
 }
 .CSS2{
     width: 100%;
-    animation: CSS2 3s;
+    animation: CSS2 6s;
 }
 .C2{
     width: 100%;
-    animation: C2 3s;
+    animation: C2 6s;
 }
 @keyframes HTML2{
     0%{
