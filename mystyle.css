@@ -317,7 +317,7 @@ margin: 5px;
     padding: 20px;
     box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
     list-style: none;
-    float: none;
+    float: left;
     
 }
 .skill li{
@@ -393,7 +393,7 @@ margin: 5px;
     padding: 20px;
     box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
     list-style: none;
-    float:right;
+    float:left;
     
     
 }
@@ -432,7 +432,7 @@ margin: 5px;
     width: 100%;
     animation: C2 3s;
 }
-@keyframes HTML{
+@keyframes HTML2{
     0%{
         width: 0%;
     }
@@ -440,19 +440,19 @@ margin: 5px;
         width: 15;
     }
 }
-@keyframes CSS{
+@keyframes CSS2{
     0%{
         width: 0%;
     }
     100%{
-        width: 15%;
+        width: 100%;
     }
 }
-@keyframes C{
+@keyframes C2{
     0%{
         width: 0%;
     }
     100%{
-        width: 5%;
+        width: 100%;
     }
 }
